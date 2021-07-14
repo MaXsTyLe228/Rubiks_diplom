@@ -1,0 +1,9 @@
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\bin\Debug\TwoPhaseAlgorithmSolver.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\bin\Debug\TwoPhaseAlgorithmSolver.pdb
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\bin\Debug\RubiksCubeLib.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\bin\Debug\RubiksCubeLib.pdb
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\obj\Debug\TwoPhaseAlgorithmSolver.csprojAssemblyReference.cache
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\obj\Debug\TwoPhaseAlgorithmSolver.csproj.CoreCompileInputs.cache
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\obj\Debug\TwoPhaseAlgorithmSolver.csproj.CopyComplete
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\obj\Debug\TwoPhaseAlgorithmSolver.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\TwoPhaseAlgorithmSolver\obj\Debug\TwoPhaseAlgorithmSolver.pdb

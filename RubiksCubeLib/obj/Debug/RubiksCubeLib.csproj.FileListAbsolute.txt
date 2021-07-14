@@ -1,0 +1,9 @@
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\bin\Debug\RubiksCubeLib.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\bin\Debug\RubiksCubeLib.pdb
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\obj\Debug\RubiksCubeLib.csprojAssemblyReference.cache
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\obj\Debug\RubiksCubeLib.CubeModel.CubeModel.resources
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\obj\Debug\RubiksCubeLib.PluginSelectorDialog.resources
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\obj\Debug\RubiksCubeLib.csproj.GenerateResource.cache
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\obj\Debug\RubiksCubeLib.csproj.CoreCompileInputs.cache
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\obj\Debug\RubiksCubeLib.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\RubiksCubeLib\obj\Debug\RubiksCubeLib.pdb

@@ -1,0 +1,9 @@
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\bin\Debug\FridrichSolver.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\bin\Debug\FridrichSolver.pdb
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\bin\Debug\RubiksCubeLib.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\bin\Debug\RubiksCubeLib.pdb
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\obj\Debug\FridrichSolver.csprojAssemblyReference.cache
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\obj\Debug\FridrichSolver.csproj.CoreCompileInputs.cache
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\obj\Debug\FridrichSolver.csproj.CopyComplete
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\obj\Debug\FridrichSolver.dll
+D:\RubiksCubeSolver-master\RubiksCubeSolver\FridrichSolver\obj\Debug\FridrichSolver.pdb
